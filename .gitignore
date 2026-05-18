@@ -1,0 +1,15 @@
+.venv/
+__pycache__/
+*.pyc
+
+backend/weights/
+*.pt
+*.pth
+
+.DS_Store
+
+*.csv
+*.gz
+.env
+
+images_training_rev1
